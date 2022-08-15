@@ -162,14 +162,13 @@
 | Nicole    |         73 |           161 |
 (Output limit exceeded, 25 of 10000 total rows shown)
 
-9. Compare number of reviews with the word "love" with the word "hate" in them
+9. Difference between the number of reviews with the word "love" with the word "hate" in them
 
 | love_reviews | hate_reviews |
 |--------------|--------------|
 | 1780 | 232 |
 
-
-10. Compare the businesses with 2-3 stars to the businesses with 4-5 stars in Food category and in Phoenix,Az 
+10. Difference between the businesses with 2-3 stars to the businesses with 4-5 stars in Food category and in Phoenix,Az 
 
 | name                                   | city    | category | stars | hours                 | review_count |
 |----------------------------------------|---------|----------|-------|-----------------------|--------------|
@@ -195,7 +194,7 @@
 | Phoenix | Food     | 2-3 stars     |              2 |               7 |           378 |
 | Phoenix | Food     | 4-5 stars     |              2 |               7 |          3021 |
 
-11. Compare the locations of businesses with 2-3 stars to the businesses with 4-5 stars in Food category and in Phoenix,Az 
+11. Locations of businesses with 2-3 stars to the businesses with 4-5 stars in Food category and in Phoenix,Az 
 
 | name | star_category | address | postal_code |
 |------------|---------------|-----------------------------|-------------|
@@ -211,7 +210,7 @@
 | still open | 8480 | 269300 | 31.76 | 3.68 |
 | closed | 1520 | 35261 | 23.2 | 3.52 |
 
-13. Determine which business category has the largest and lowest number of closed and still open businesses
+13. Business category with the largest and lowest number of closed and still open businesses
 
 | category | total_still_open |
 |------------------|------------------|
