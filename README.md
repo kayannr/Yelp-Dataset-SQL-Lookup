@@ -169,4 +169,33 @@
 | 1780 | 232 |
 
 
+10. Compare the businesses with 2-3 stars to the businesses with 4-5 stars in Food category and in Phoenix,Az 
+
+| name                                   | city    | category | stars | hours                 | review_count |
+|----------------------------------------|---------|----------|-------|-----------------------|--------------|
+| Starbucks                              | Phoenix | Food     |   3.0 | Monday|5:00-20:00     |           52 |
+| Starbucks                              | Phoenix | Food     |   3.0 | Tuesday|5:00-20:00    |           52 |
+| Starbucks                              | Phoenix | Food     |   3.0 | Friday|5:00-20:00     |           52 |
+| Starbucks                              | Phoenix | Food     |   3.0 | Wednesday|5:00-20:00  |           52 |
+| Starbucks                              | Phoenix | Food     |   3.0 | Thursday|5:00-20:30   |           52 |
+| Starbucks                              | Phoenix | Food     |   3.0 | Sunday|5:00-20:00     |           52 |
+| Starbucks                              | Phoenix | Food     |   3.0 | Saturday|5:00-20:00   |           52 |
+| Water N Ice                            | Phoenix | Food     |   5.0 | None                  |            4 |
+| Safeway Food & Drug                    | Phoenix | Food     |   2.5 | None                  |           14 |
+| Bootleggers Modern American Smokehouse | Phoenix | Food     |   4.0 | Monday|11:00-22:00    |          431 |
+| Bootleggers Modern American Smokehouse | Phoenix | Food     |   4.0 | Tuesday|11:00-22:00   |          431 |
+| Bootleggers Modern American Smokehouse | Phoenix | Food     |   4.0 | Friday|11:00-22:00    |          431 |
+| Bootleggers Modern American Smokehouse | Phoenix | Food     |   4.0 | Wednesday|11:00-22:00 |          431 |
+| Bootleggers Modern American Smokehouse | Phoenix | Food     |   4.0 | Thursday|11:00-22:00  |          431 |
+| Bootleggers Modern American Smokehouse | Phoenix | Food     |   4.0 | Sunday|11:00-22:00    |          431 |
+| Bootleggers Modern American Smokehouse | Phoenix | Food     |   4.0 | Saturday|11:00-22:00  |          431 |
+
+| city    | category | star_category | business_count | total_work_days | total_reviews |
+|---------|----------|---------------|----------------|-----------------|---------------|
+| Phoenix | Food     | 2-3 stars     |              2 |               7 |           378 |
+| Phoenix | Food     | 4-5 stars     |              2 |               7 |          3021 |
+
+
+
+
 
