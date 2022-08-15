@@ -83,3 +83,86 @@
 | Avon | 4.5 | 31 |
 | Avon | 5.0 | 3 |
 
+
+| city | stars | total_reviews |
+|-----------|-------|---------------|
+| Beachwood | 2.0 | 8 |
+| Beachwood | 2.5 | 3 |
+| Beachwood | 3.0 | 11 |
+| Beachwood | 3.5 | 6 |
+| Beachwood | 4.0 | 69 |
+| Beachwood | 4.5 | 17 |
+| Beachwood | 5.0 | 23 |
+
+7. Top 3 users based on their total number of reviews
+
+| name | total_reviews |
+|--------|---------------|
+| Gerald | 2000 |
+| Sara | 1629 |
+| Yuri | 1339 |
+
+8. Top Reviews & Top Fans
+
+| name | total_reviews | total_fans |
+|-----------|---------------|------------|
+| Gerald | 2000 | 253 |
+| Sara | 1629 | 50 |
+| Yuri | 1339 | 76 |
+| .Hon | 1246 | 101 |
+| William | 1215 | 126 |
+| Harald | 1153 | 311 |
+| eric | 1116 | 16 |
+| Roanna | 1039 | 104 |
+| Mimi | 968 | 497 |
+| Christine | 930 | 173 |
+| Ed | 904 | 38 |
+| Nicole | 864 | 43 |
+| Fran | 862 | 124 |
+| Mark | 861 | 115 |
+| Christina | 842 | 85 |
+| Dominic | 836 | 37 |
+| Lissa | 834 | 120 |
+| Lisa | 813 | 159 |
+| Alison | 775 | 61 |
+| Sui | 754 | 78 |
+| Tim | 702 | 35 |
+| L | 696 | 10 |
+| Angela | 694 | 101 |
+| Crissy | 676 | 25 |
+| Lyn | 675 | 45 |
+(Output limit exceeded, 25 of 10000 total rows shown)
+
+| name      | total_fans | total_reviews |
+|-----------|------------|---------------|
+| Amy       |        503 |           609 |
+| Mimi      |        497 |           968 |
+| Harald    |        311 |          1153 |
+| Gerald    |        253 |          2000 |
+| Christine |        173 |           930 |
+| Lisa      |        159 |           813 |
+| Cat       |        133 |           377 |
+| William   |        126 |          1215 |
+| Fran      |        124 |           862 |
+| Lissa     |        120 |           834 |
+| Mark      |        115 |           861 |
+| Tiffany   |        111 |           408 |
+| bernice   |        105 |           255 |
+| Roanna    |        104 |          1039 |
+| Angela    |        101 |           694 |
+| .Hon      |        101 |          1246 |
+| Ben       |         96 |           307 |
+| Linda     |         89 |           584 |
+| Christina |         85 |           842 |
+| Jessica   |         84 |           220 |
+| Greg      |         81 |           408 |
+| Nieves    |         80 |           178 |
+| Sui       |         78 |           754 |
+| Yuri      |         76 |          1339 |
+| Nicole    |         73 |           161 |
+(Output limit exceeded, 25 of 10000 total rows shown)
+
+
+
+
+
