@@ -226,5 +226,16 @@
 | Active Life | 10 | 
 | Local Services | 10 | 
 
+| category | total_closed | |
+|---------------------------|--------------|
+| Restaurants | 18 | 
+| Nightlife | 8 |
+| Bars | 6 | 
+| Shopping | 5 | 
+| American (New) | 3 | 
+| American (Traditional) | 3 | 
+| Event Planning & Services | 3 | 
+| Food | 3 |
+| Desserts | 2 | 
 
 
