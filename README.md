@@ -195,7 +195,36 @@
 | Phoenix | Food     | 2-3 stars     |              2 |               7 |           378 |
 | Phoenix | Food     | 4-5 stars     |              2 |               7 |          3021 |
 
+11. Compare the locations of businesses with 2-3 stars to the businesses with 4-5 stars in Food category and in Phoenix,Az 
 
+| name | star_category | address | postal_code |
+|------------|---------------|-----------------------------|-------------|
+| Starbucks | 2-3 stars | 4605 E Chandler Blvd, Ste A | 85048 |
+| Safeway Fo-| 2-3 stars | 3450 W Bell Rd | 85053 |
+| Water N Ice| 4-5 stars | 4212 W Cactus Rd, Ste 1114 | 85029 |
+| Bootlegger-| 4-5 stars | 3375 E Shea Blvd | 85028 |
+
+12. Difference between opeen and closed businesses
+
+| current_status | num_business | total_reviews | avg_review | avg_stars |
+|----------------|--------------|---------------|------------|-----------|
+| still open | 8480 | 269300 | 31.76 | 3.68 |
+| closed | 1520 | 35261 | 23.2 | 3.52 |
+
+13. Determine which business category has the largest and lowest number of closed and still open businesses
+
+| category | total_still_open |
+|------------------|------------------|
+| Restaurants | 53 | 
+| Shopping | 25 |
+| Food | 20 |
+| Health & Medical | 16 |
+| Home Services | 15 | 
+| Beauty & Spas | 12 | 
+| Nightlife | 12 | 
+| Bars | 11 |
+| Active Life | 10 | 
+| Local Services | 10 | 
 
 
 
