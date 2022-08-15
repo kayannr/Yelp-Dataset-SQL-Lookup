@@ -162,7 +162,11 @@
 | Nicole    |         73 |           161 |
 (Output limit exceeded, 25 of 10000 total rows shown)
 
+9. Compare number of reviews with the word "love" with the word "hate" in them
 
+| love_reviews | hate_reviews |
+|--------------|--------------|
+| 1780 | 232 |
 
 
 
