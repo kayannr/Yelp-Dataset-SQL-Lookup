@@ -34,4 +34,10 @@
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- |
 |  0 |    0 |            0 |             0 |      0 |     0 |    0 |    0 |             0 |              0 |               0 |                  0 |               0 |               0 |               0 |                0 |               0 |                0 |                 0 |                 0 |
 
-4. Cities with the most reviews 
+4. Check for empty values in Users table 
+
+| id | name | review_count | yelping_since | useful | funny | cool | fans | average_stars | compliment_hot | compliment_more | compliment_profile | compliment_cute | compliment_list | compliment_note | compliment_plain | compliment_cool | compliment_funny | compliment_writer | compliment_photos |
+| ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- |
+|  0 |    6 |            0 |             0 |      0 |     0 |    0 |    0 |             0 |              0 |               0 |                  0 |               0 |               0 |               0 |                0 |               0 |                0 |                 0 |                 0 |
+
+5. Cities with the most reviews 
