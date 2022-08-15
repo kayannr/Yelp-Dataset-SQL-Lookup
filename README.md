@@ -3,8 +3,7 @@
 1. Data profile by total number of records  
 
 * Attribute table = 10,000
-
-ii. Business table = 10,000
+* Business table = 10,000
 
 iii. Category table = 10,000
 
