@@ -2,7 +2,7 @@
 
 1. Data profile by total number of records  
 
-** Attribute table = 10,000
+* Attribute table = 10,000
 
 ii. Business table = 10,000
 
