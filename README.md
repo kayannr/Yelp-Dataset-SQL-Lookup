@@ -226,7 +226,7 @@
 | Active Life | 10 | 
 | Local Services | 10 | 
 
-| category | total_closed | |
+| category | total_closed | 
 |---------------------------|--------------|
 | Restaurants | 18 | 
 | Nightlife | 8 |
