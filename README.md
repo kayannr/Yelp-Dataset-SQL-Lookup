@@ -71,3 +71,15 @@
 | Lakewood        |          1465 |
 | Goodyear        |          1155 |
 (Output limit exceeded, 25 of 362 total rows shown)
+
+6. Distribution of star ratings to the business in the 2 cities (Avon & Beachwood)
+
+| city | stars | total_reviews |
+|------|-------|---------------|
+| Avon | 1.5 | 10 |
+| Avon | 2.5 | 6 |
+| Avon | 3.5 | 88 |
+| Avon | 4.0 | 21 |
+| Avon | 4.5 | 31 |
+| Avon | 5.0 | 3 |
+
